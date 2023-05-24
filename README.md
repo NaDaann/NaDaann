@@ -1,4 +1,4 @@
-### Olá, bem vindo (a)! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Descrição do GIF" width="1%" heigth="1%">
+### Olá, bem vindo (a)! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Descrição do GIF" width="3%" heigth="3%">
 
 ### Me chamo Daniel Batista Miranda, atualmente sou Desenolvedor Full Stack.
 
