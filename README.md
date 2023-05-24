@@ -1,4 +1,4 @@
-### Olá! Me chamo Daniel Batista Miranda👋
+### Olá! Me chamo Daniel Batista Miranda https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif
 
 ### Desenvolvedor Full Stack | Node.js | JavaScript | React | PHP | Java | MySQL | SQL | Docker
 Olá! Sou Daniel, um desenvolvedor apaixonado por desafios e inovação. Estou sempre em busca de expandir meus horizontes e entender profundamente como as coisas funcionam ao meu redor. Com uma mentalidade voltada para o progresso, estou constantemente em busca de aprendizado e crescimento.
